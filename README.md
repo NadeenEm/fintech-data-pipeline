@@ -1,5 +1,5 @@
 # fintech-data-pipeline
-📊 FinTech Data Pipeline with Apache Airflow
+##📊 FinTech Data Pipeline with Apache Airflow
 This project is a complete data engineering pipeline for processing, transforming, and loading FinTech loan data using Apache Airflow and PostgreSQL, with visual insights rendered via Apache Superset.
 
 🚀 Project Overview
