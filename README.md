@@ -30,4 +30,15 @@ The pipeline is orchestrated using Apache Airflow and visualized via Superset da
 
 ## 📁 Folder Structure
 
-<pre lang="md"> ``` ├── airflow/ │ ├── dags/ │ │ └── fintech_dag.py │ └── data/ │ ├── fintech_data.csv │ ├── states.csv │ ├── fintech_clean.parquet │ ├── fintech_combined.parquet │ └── fintech_encoded.parquet ├── _functions/ │ └── cleaning.py └── README.md ``` </pre>
+<pre lang="md"> ``` ├── airflow/
+│ ├── dags/
+│ │ └── fintech_dag.py
+│ └── data/
+│ ├── fintech_data.csv
+│ ├── states.csv
+│ ├── fintech_clean.parquet
+│ ├── fintech_combined.parquet
+│ └── fintech_encoded.parquet
+├── _functions/
+│ └── cleaning.py
+└── README.md ``` </pre>
